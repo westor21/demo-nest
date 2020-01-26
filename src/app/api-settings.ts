@@ -1,0 +1,3 @@
+// MONGODB
+export const ACCOMMODATION_TABLE_PREFIX = 'Accommodation';
+export const ACCOMMODATION_TABLE1 = `${ACCOMMODATION_TABLE_PREFIX}_1`;
